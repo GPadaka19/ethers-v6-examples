@@ -16,3 +16,7 @@ async function main() {
 }
 
 main()
+
+// GPadaka19 ➜  ethers-v6-examples node examples/1_accounts.js
+
+// ETH Balance of 0xdadB0d80178819F2319190D340ce9A924f783711 --> 79.330406553344292113 ETH
